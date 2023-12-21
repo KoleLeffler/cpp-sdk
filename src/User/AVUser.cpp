@@ -1,5 +1,5 @@
-/**
- * @file   AVUser.cpp
+/#*
+ *#@file   AVUser.cpp
  * @author yang chaozhong <cyang@avoscloud.com>
  * @date   Wed Aug 27 17:22:15 2014
  *
@@ -178,3 +178,4 @@ AVQuery* AVUser::query() {
 }
 
 NS_AV_END
+ 
